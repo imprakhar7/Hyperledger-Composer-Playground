@@ -1,0 +1,13 @@
+{
+  "$class": "org.example.mynetwork.Trader",
+  "tradeId": "TRADER1",
+  "firstName": "Saurbh",
+  "lastName": "Singh"
+}
+
+{
+  "$class": "org.example.mynetwork.Trader",
+  "tradeId": "TRADER2",
+  "firstName": "Prakhar",
+  "lastName": "Shukla"
+}
