@@ -1,0 +1,7 @@
+{
+ "$class": "org.example.mynetwork.Trade",
+ "commodity": "resource:org.example.mynetwork.Commodity#ABC",
+ "newOwner": "resource:org.example.mynetwork.Trader#TRADER2",
+ "transactionId": "eabab079-d243-467c-bcde-00cba707ab0a",
+ "timestamp": "2018-09-03T16:59:08.162Z"
+}
